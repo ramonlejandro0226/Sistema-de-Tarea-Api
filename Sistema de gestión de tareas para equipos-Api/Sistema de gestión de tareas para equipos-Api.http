@@ -1,0 +1,6 @@
+@Sistema_de_gestión_de_tareas_para_equipos_Api_HostAddress = http://localhost:5069
+
+GET {{Sistema_de_gestión_de_tareas_para_equipos_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
