@@ -7,7 +7,7 @@ namespace Sistema_de_gestión_de_tareas_para_equipos_Api.Context.Models
     public class TaskUser : BaseEntity
     {
         [Required]
-        public int TaskId { get; set; }
+        public Guid TaskId { get; set; }
 
         [ForeignKey("TaskId")]
         public Task Task { get; set; } = null!;

@@ -26,22 +26,26 @@ namespace Sistema_de_gestión_de_tareas_para_equipos_Api.Context
             modelBuilder.Entity<TaskUser>()
                 .HasOne(tu => tu.Task)
                 .WithMany(t => t.TaskUsers)
-                .HasForeignKey(tu => tu.TaskId);
+                .HasForeignKey(tu => tu.TaskId)
+                .OnDelete(DeleteBehavior.NoAction);  // Especificar NoAction
 
             modelBuilder.Entity<TaskUser>()
                 .HasOne(tu => tu.User)
                 .WithMany(u => u.TaskUsers)
-                .HasForeignKey(tu => tu.UserId);
+                .HasForeignKey(tu => tu.UserId)
+                .OnDelete(DeleteBehavior.NoAction);  // Especificar NoAction
 
             modelBuilder.Entity<TaskHistory>()
                 .HasOne(th => th.Task)
                 .WithMany(t => t.TaskHistories)
-                .HasForeignKey(th => th.TaskId);
+                .HasForeignKey(th => th.TaskId)
+                .OnDelete(DeleteBehavior.NoAction);  // Especificar NoAction
 
             modelBuilder.Entity<TaskHistory>()
                 .HasOne(th => th.ChangedByUser)
                 .WithMany(u => u.TaskHistories)
-                .HasForeignKey(th => th.ChangedByUserId);
+                .HasForeignKey(th => th.ChangedByUserId)
+                .OnDelete(DeleteBehavior.NoAction);  // Especificar NoAction
         }
     }
 }

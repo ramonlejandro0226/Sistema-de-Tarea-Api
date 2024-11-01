@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de gestión de tareas para equipos-Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1239ca062254688a2871614c953cd600e631567f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de gestión de tareas para equipos-Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de gestión de tareas para equipos-Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,7 +15,7 @@ namespace Sistema_de_gestión_de_tareas_para_equipos_Api.Context.Models
         public string LastName { get; set; } = null!;
 
         [Required]
-        public int RoleId { get; set; }
+        public Guid RoleId { get; set; }
 
         [ForeignKey("RoleId")]
         public Role Role { get; set; } = null!;

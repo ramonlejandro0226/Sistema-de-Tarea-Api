@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\userextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\userextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\taskuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\taskuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\taskhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\taskhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Migrations\\20241031170252_InitializarTabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sistema de gesti\u00F3n de tareas para equipos-Api\\Migrations\\20241031170252_InitializarTabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\userextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\context\\models\\userextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|c:\\users\\cliente\\desktop\\sistema de gesti\u00F3n de tareas para equipos-api\\sistema de gesti\u00F3n de tareas para equipos-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F62E426-0783-4998-BE64-FF79DCE5E1F0}|Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api.csproj|solutionrelative:sistema de gesti\u00F3n de tareas para equipos-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +50,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "20241031170252_InitializarTabla.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Migrations\\20241031170252_InitializarTabla.cs",
+              "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Migrations\\20241031170252_InitializarTabla.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Migrations\\20241031170252_InitializarTabla.cs",
+              "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Migrations\\20241031170252_InitializarTabla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:02:52.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\appsettings.json",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\appsettings.json",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\appsettings.json",
               "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-31T01:59:59.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Program.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Program.cs",
@@ -75,68 +100,60 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TaskManagementDbContext.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\TaskManagementDbContext.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\TaskManagementDbContext.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\TaskManagementDbContext.cs",
               "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\TaskManagementDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T01:40:33.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TaskHistory.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskHistory.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskHistory.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskHistory.cs",
               "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T01:38:37.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "TaskUser.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskUser.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskUser.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskUser.cs",
               "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\TaskUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T01:33:47.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Task.cs",
-              "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Task.cs*",
+              "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Task.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T00:37:16.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Common\\BaseEntity.cs",
@@ -149,26 +166,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Role.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Role.cs",
               "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T23:32:42.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserExtend.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\UserExtend.cs",
               "RelativeDocumentMoniker": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\UserExtend.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\UserExtend.cs",
               "RelativeToolTip": "Sistema de gesti\u00F3n de tareas para equipos-Api\\Context\\Models\\UserExtend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T23:28:44.38Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
 ﻿using Sistema_de_gestión_de_tareas_para_equipos_Api.Context.Models.Common;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -6,6 +7,8 @@ namespace Sistema_de_gestión_de_tareas_para_equipos_Api.Context.Models
 {
     public class Task : BaseEntity
     {
+    
+
         [Required]
         public string Name { get; set; } = null!;
 
@@ -17,10 +20,10 @@ namespace Sistema_de_gestión_de_tareas_para_equipos_Api.Context.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-        public ICollection<TaskUser> TaskUsers { get; set; } = null!;
+        public ICollection<TaskUser> TaskUsers { get; set; } =null!;
 
         [Required]
-        public int CreatedByUserId { get; set; }
+        public string CreatedByUserId { get; set; }  = null!;
 
         [ForeignKey("CreatedByUserId")]
         public UserExtend CreatedByUser { get; set; } = null!;
