@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj": {}
+    "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj": {
+    "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj",
+        "projectUniqueName": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj",
         "projectName": "Sistema De gestion De Tarea",
-        "projectPath": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj",
-        "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\obj\\",
+        "projectPath": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj",
+        "packagesPath": "C:\\Users\\cliente\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

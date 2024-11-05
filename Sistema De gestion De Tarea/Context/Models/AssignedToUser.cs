@@ -4,17 +4,17 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Sistema_De_gestion_De_Tarea.Context.Models
 {
-    [Keyless]
     public class AssignedToUser
     {
-        [ForeignKey("Task")]
-         public  Guid TaskId  { get; set; }
-   
-        public Sistema_De_gestion_De_Tarea.Context.Models.Task Task { get; set; } = null!;
-        [ForeignKey("User")]
+        [Key]
+        [Column(Order = 1)]
         public Guid UserId { get; set; }
-        
-        public User User { get; set; }= null!;
 
+        [Key]
+        [Column(Order = 2)]
+        public Guid TaskId { get; set; }
+
+        public User User { get; set; } = null!;
+        public Task Task { get; set; } = null!;
     }
 }

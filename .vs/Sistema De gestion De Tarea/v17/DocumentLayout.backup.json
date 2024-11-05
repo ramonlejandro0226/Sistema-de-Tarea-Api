@@ -1,62 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\",
+  "WorkspaceRootPath": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\dtos\\taskdto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\taskdto\\taskputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\dtos\\taskdto\\assignedtouserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\assignedtouserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\taskdto\\taskgetassigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskgetassigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\registerdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\registerdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\mapping\\profilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\mapping\\profilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\mapping\\profilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\dtos\\taskdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\context\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\context\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\dtos\\taskdto\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\context\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\context\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\context\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\context\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Migrations\\20241102225834_Initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sistema De gestion De Tarea\\Migrations\\20241102225834_Initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Migrations\\20241102225240_Initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sistema De gestion De Tarea\\Migrations\\20241102225240_Initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\users\\ramon\\desktop\\sistema de gestion de tarea\\sistema de gestion de tarea\\context\\models\\assignedtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\context\\models\\assignedtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,189 +45,116 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProfileMappings.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T00:32:12.583Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\UserDTO.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T00:30:30.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssignedToUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\AssignedToUserDTO.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\AssignedToUserDTO.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\AssignedToUserDTO.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\AssignedToUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T00:29:17.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatusDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\StatusDTO.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\StatusDTO.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\StatusDTO.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\StatusDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T00:27:46.731Z",
+              "WhenOpened": "2024-11-04T00:57:08.659Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TaskDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskDTO.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskDTO.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskDTO.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskDTO.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAEwA0AAAABAAAAAAAAAA==",
+              "Title": "TaskPutDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T00:22:47.664Z",
+              "WhenOpened": "2024-11-05T06:39:26.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:45:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskGetAssigned.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:56:03.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs*",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\Controllers\\TasksController.cs*",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAiwP8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T23:03:05.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241102225834_Initialize.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Migrations\\20241102225834_Initialize.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Migrations\\20241102225834_Initialize.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Migrations\\20241102225834_Initialize.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Migrations\\20241102225834_Initialize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:58:34.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Program.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Program.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Program.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:17:26.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAADYAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T23:06:12.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20241102225240_Initialize.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Migrations\\20241102225240_Initialize.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Migrations\\20241102225240_Initialize.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Migrations\\20241102225240_Initialize.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Migrations\\20241102225240_Initialize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:52:40.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Context\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Context\\Models\\User.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Program.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:44:12.836Z",
+              "WhenOpened": "2024-11-04T21:33:09.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\appsettings.json",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\appsettings.json",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\appsettings.json",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T22:18:49.041Z",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:03:50.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProfileMappings.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:11:04.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AssignedToUser.cs",
-              "DocumentMoniker": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Context\\Models\\AssignedToUser.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\Models\\AssignedToUser.cs",
-              "ToolTip": "C:\\Users\\ramon\\Desktop\\Sistema De gestion De Tarea\\Sistema De gestion De Tarea\\Context\\Models\\AssignedToUser.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\Models\\AssignedToUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:21:31.882Z",
+              "WhenOpened": "2024-11-03T00:32:12.583Z",
               "EditorCaption": ""
             }
           ]
