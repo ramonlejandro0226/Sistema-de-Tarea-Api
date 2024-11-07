@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "Sistema_De_gestion_De_Tarea.Controllers.TasksController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/Tasks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sistema_De_gestion_De_Tarea.Controllers.TasksController",
     "Method": "GetAllTasksForAdmin",
     "RelativePath": "api/Tasks/admin/tasks",
     "HttpMethod": "GET",
@@ -88,11 +104,16 @@
   {
     "ContainingType": "Sistema_De_gestion_De_Tarea.Controllers.TasksController",
     "Method": "UpdateTask",
-    "RelativePath": "api/Tasks/UpdateTask",
+    "RelativePath": "api/Tasks/UpdateTask/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
       {
         "Name": "taskUpdateDTO",
         "Type": "Sistema_De_gestion_De_Tarea.DTOs.TaskDTO.TaskPutDTO",

@@ -2,6 +2,7 @@
 {
     public class TaskGetDTO
     {
+        public Guid Id { get; set; }
         public string Name { get; set; } = null!;
         public string Description { get; set; } = null!;
         public StatusDTO Status { get; set; } = null!;
@@ -10,6 +11,6 @@
         public DateTime CreatedAt { get; set; }
 
 
-        public Guid CreatedByUserId { get; set; } 
+        public Guid CreatedByUserId { get; set; }
     }
 }

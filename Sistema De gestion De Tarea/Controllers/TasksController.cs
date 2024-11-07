@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Claims;
-using System.Threading.Tasks;
+﻿using System.Security.Claims;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sistema_De_gestion_De_Tarea.Context;
 using Sistema_De_gestion_De_Tarea.Context.Models;
 using Sistema_De_gestion_De_Tarea.DTOs.TaskDTO;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 using Task = Sistema_De_gestion_De_Tarea.Context.Models.Task;
 
 namespace Sistema_De_gestion_De_Tarea.Controllers
@@ -69,30 +63,13 @@ namespace Sistema_De_gestion_De_Tarea.Controllers
             var currentUserId = GetCurrentUserId();
 
             // Buscar las tareas creadas por el usuario actual
-            var tasks = await _context.Tasks
-                .Include(t => t.Status) // Asegúrate de incluir el estado
-                                .Where(t => t.CreatedByUserId == currentUserId) // Filtrar por el creador
-                .Select(t => new TaskGetDTO
-                {
-                    Name = t.Name,
-                    Description = t.Description,
-                    Status = new StatusDTO { Name = t.Status.Name }, // Convertir a StatusDTO
-                    CreatedByUserId = t.CreatedByUserId,
-                    AssignedToUser = t.AssignedToUser.Select(au => new AssignedToUserDTO
-                    {
-                        UserId = au.UserId,
-                        TaskId = au.TaskId
-                    }).ToList(),
-                    CreatedAt = t.CreatedAt
-                })
-                .ToListAsync();
-
+            var tasks = await _context.Tasks.Include(t => t.Status).Include(assigned => assigned.AssignedToUser).Where(t => t.CreatedByUserId == currentUserId).ToListAsync();
             if (tasks == null || tasks.Count == 0)
             {
                 return NotFound("No se encontraron tareas para el usuario actual.");
             }
 
-            return Ok(tasks);
+            return Ok(_mapper.Map<IEnumerable<TaskGetDTO>>(tasks));
         }
 
 
@@ -126,25 +103,6 @@ namespace Sistema_De_gestion_De_Tarea.Controllers
             }
 
             return Ok(tasks);
-        }
-
-
-
-
-        // Método para verificar si el usuario es administrador
-        private bool IsAdmin(Guid userId)
-        {
-            // Verifica si el usuario está autenticado
-            if (User.Identity.IsAuthenticated)
-            {
-                // Obtén el claim que contiene el rol del usuario
-                var roleClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role);
-
-                // Verifica si el rol es "Admin" (o el nombre que hayas definido para el rol de administrador)
-                return roleClaim != null && roleClaim.Value.Equals("Admin", StringComparison.OrdinalIgnoreCase);
-            }
-
-            return false; // No está autenticado, así que no es administrador
         }
 
         // POST: api/Tasks
@@ -207,112 +165,102 @@ namespace Sistema_De_gestion_De_Tarea.Controllers
             return CreatedAtAction("GetTask", new { id = task.Id }, task);
         }
 
-
-
-
         // PUT: api/Tasks/UpdateTask/{id} ------------------------OJO ESTA EN PRUEBA
-        [HttpPut("UpdateTask")]
+        [HttpPut("UpdateTask/{id}")]
         [Authorize(Roles = "admin,user")]
-        public async Task<IActionResult> UpdateTask(TaskPutDTO taskUpdateDTO)
+        public async Task<IActionResult> UpdateTask(Guid id, TaskPutDTO taskUpdateDTO)
         {
-
+            if (id != taskUpdateDTO.id)
+            {
+                return BadRequest("El ID de la tarea no coincide con el ID proporcionado en el cuerpo de la solicitud.");
+            }
 
             // Obtener el ID del usuario actual
             var currentUserId = GetCurrentUserId();
 
-            // Buscar las tareas creadas por el usuario actual
-            var tasks = await _context.Tasks
-                .Where(t => t.CreatedByUserId == currentUserId) // Filtrar por el creador
-                .Include(t => t.Status) // Asegúrate de incluir el estado
-                .ToListAsync();
+            // Buscar la tarea específica creada por el usuario actual
+            var task = await _context.Tasks
+                .FirstOrDefaultAsync(t => t.CreatedByUserId == currentUserId && t.Id == id);
 
-            if (tasks == null || tasks.Count == 0)
+            if (task == null)
             {
-                return NotFound("No se encontraron tareas para el usuario actual.");
+                return NotFound("No se encontró la tarea para el usuario actual.");
             }
 
-            // Modificar solo la descripción y el estado para cada tarea
-            foreach (var task in tasks)
+            // Verificar si el estado existe en la base de datos
+            var status = await _context.Status
+                .SingleOrDefaultAsync(s => s.Name.ToLower() == taskUpdateDTO.Status.Name.ToLower());
+
+            if (status == null)
             {
-                // Actualizar la descripción
-                task.Description = taskUpdateDTO.Description;
-
-                // Verificar si el estado existe en la base de datos
-                var status = await _context.Status
-                    .SingleOrDefaultAsync(s => s.Name.ToLower() == taskUpdateDTO.Status.Name.ToLower());
-
-                if (status == null)
-                {
-                    return BadRequest("El estado no existe.");
-                }
-
-                // Asignar el nuevo estado
-                task.Status = status;
+                return BadRequest("El estado proporcionado no existe.");
             }
+
+            // Actualizar solo las propiedades permitidas
+            task.Description = taskUpdateDTO.Description;
+            task.Status = status;
 
             // Guardar cambios en la base de datos
             await _context.SaveChangesAsync();
 
             return NoContent();
-
-
-
         }
-
-
-
-
-        Guid GetUserIdByName(string userName)
-        {
-            var user = _context.Users.FirstOrDefault(u => u.Name == userName);
-            if (user == null)
-            {
-                throw new Exception($"El usuario con el nombre '{userName}' no existe.");
-            }
-            return user.Id;
-        }
-
-
-
-
-
-
-
-
 
         // DELETE: api/Tasks/5
-        //    [HttpDelete("{id}")]
-        //    [Authorize(Roles = "admin,user")]
-        //    public async Task<IActionResult> DeleteTask(Guid id)
-        //    {
-        //        var task = await _context.Tasks
-        //            .Include(t => t.User) // Incluye el usuario para verificar la propiedad User.Id
-        //            .FirstOrDefaultAsync(t => t.Id == id);
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "admin,user")]
+        public async Task<IActionResult> DeleteTask(Guid id)
+        {
+            if (id == Guid.Empty)
+            {
+                return BadRequest("Invalid Task ID.");
+            }
 
-        //        if (task == null)
-        //        {
-        //            return NotFound();
-        //        }
+            var currentUserId = GetCurrentUserId();
+            var task = await _context.Tasks.FirstOrDefaultAsync(t => t.CreatedByUserId == currentUserId && t.Id == id);
 
-        //        var currentUserId = GetCurrentUserId(); // Obtener el ID del usuario actual
+            if (task == null)
+            {
+                return NotFound("Task not found or you don't have permission to delete it.");
+            }
 
-        //        // Verificar si el usuario es el dueño de la tarea o un administrador
-        //        if (task.User.Id != currentUserId && !IsAdmin(currentUserId))
-        //        {
-        //            return Forbid(); // Prohibir la eliminación si no es el propietario ni un administrador
-        //        }
+            //Permitir eliminación solo para el creador o un administrador
+            if (!IsAdmin(currentUserId))
+            {
+                return Forbid();
+            }
 
-        //        _context.Tasks.Remove(task);
-        //        await _context.SaveChangesAsync();
+            _context.Tasks.Remove(task);
 
-        //        return NoContent();
-        //    }
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (Exception ex)
+            {
+                // Log error
+                return StatusCode(500, "An error occurred while deleting the task.");
+            }
 
-        //    private bool TaskExists(Guid id)
-        //    {
-        //        return _context.Tasks.Any(e => e.Id == id);
-        //    }
-        //}
+            return NoContent();
+        }
+
+
+        // Método para verificar si el usuario es administrador
+        private bool IsAdmin(Guid userId)
+        {
+            // Verifica si el usuario está autenticado
+            if (User.Identity.IsAuthenticated)
+            {
+                // Obtén el claim que contiene el rol del usuario
+                var roleClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role);
+
+                // Verifica si el rol es "Admin" (o el nombre que hayas definido para el rol de administrador)
+                return roleClaim != null && roleClaim.Value.Equals("Admin", StringComparison.OrdinalIgnoreCase);
+            }
+
+            return false; // No está autenticado, así que no es administrador
+        }
 
 
 

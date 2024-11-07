@@ -15,6 +15,7 @@ namespace Sistema_De_gestion_De_Tarea.Mapping
          .ForMember(dest => dest.Status, opt => opt.MapFrom(src => src.Status));
             CreateMap<UserDTO, User>().ReverseMap();
 
+            CreateMap<Task, TaskGetDTO>().ReverseMap();
 
             CreateMap<UserRegisterDTO, User>().ReverseMap();
             CreateMap<RoleDTO, Role>().ReverseMap();

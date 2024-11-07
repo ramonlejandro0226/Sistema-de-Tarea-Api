@@ -521,3 +521,6 @@ C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\obj\Debug\
 C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\obj\Debug\net8.0\Sistema De gestion De Tarea.pdb
 C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\obj\Debug\net8.0\Sistema De gestion De Tarea.genruntimeconfig.cache
 C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\obj\Debug\net8.0\ref\Sistema De gestion De Tarea.dll
+C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Proyectos\C# .net\Sistema-de-Tarea-Api\Sistema De gestion De Tarea\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

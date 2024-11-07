@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\taskdto\\taskputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\taskdto\\taskgetassigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskgetassigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\registerdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\registerdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\taskdto\\taskgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\taskdto\\taskputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\taskdto\\taskputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\mapping\\profilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\mapping\\profilemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\dtos\\registerdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\dtos\\registerdto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\context\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\context\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\context\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|c:\\proyectos\\c# .net\\sistema-de-tarea-api\\sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72F6AA3-C4C5-4007-8C44-40CB86C773A2}|Sistema De gestion De Tarea\\Sistema De gestion De Tarea.csproj|solutionrelative:sistema de gestion de tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,34 +50,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
               "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
               "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\Models\\Task.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA6wCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T00:57:08.659Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskPutDTO.cs",
-              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
-              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
-              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:39:26.197Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -81,7 +75,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskGetDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetDTO.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetDTO.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetDTO.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:09:07.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\appsettings.json",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\appsettings.json",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T02:44:35.497Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TaskPutDTO.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskPutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:39:26.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserResponseDTO.cs",
               "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
@@ -89,21 +119,19 @@
               "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\RegisterDTO\\UserResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:45:55.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T05:45:55.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskGetAssigned.cs",
               "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
               "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
               "RelativeToolTip": "Sistema De gestion De Tarea\\DTOs\\TaskDTO\\TaskGetAssigned.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T04:56:03.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T04:56:03.024Z"
             },
             {
               "$type": "Document",
@@ -111,29 +139,28 @@
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs*",
-              "RelativeToolTip": "Sistema De gestion De Tarea\\Controllers\\TasksController.cs*",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAiwP8AAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Sistema De gestion De Tarea\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwGAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T23:03:05.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Program.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Program.cs",
               "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Program.cs",
               "RelativeToolTip": "Sistema De gestion De Tarea\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T21:33:09.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T21:33:09.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
@@ -141,8 +168,7 @@
               "RelativeToolTip": "Sistema De gestion De Tarea\\Context\\Models\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T05:03:50.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T05:03:50.869Z"
             },
             {
               "$type": "Document",
@@ -152,10 +178,9 @@
               "RelativeDocumentMoniker": "Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
               "ToolTip": "C:\\Proyectos\\C# .net\\Sistema-de-Tarea-Api\\Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
               "RelativeToolTip": "Sistema De gestion De Tarea\\Mapping\\ProfileMappings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T00:32:12.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T00:32:12.583Z"
             }
           ]
         }
